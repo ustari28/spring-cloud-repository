@@ -1,1 +1,2 @@
-config.value=TEST1
+config:
+  values: TEST1
